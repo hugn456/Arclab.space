@@ -6,4 +6,5 @@
 5) `npm install sass` to install the package sass.
 6) `npm install react-router-dom` to install the package react-router-dom.
 7) `npm install react-collapsible` to install the package react-collapsible.
-8) `npm start` to start the app.
+8) `npm install react-typewriter-effect` to install the package react-typewriter-effect.
+9) `npm start` to start the app.
