@@ -1,0 +1,39 @@
+.welcome_bk {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome_content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery_bk {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: relative;
+    height: 100vh;
+}
+
+.product_bk {
+    text-align: left;
+    background-color: 'black';
+    color: 'white'
+}
+
+.thumbnails {
+    width: 25vw;
+    height: 30vh
+}
+
+.thumbnails:hover {
+    filter: invert(20%);
+}
